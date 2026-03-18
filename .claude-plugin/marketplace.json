@@ -5,12 +5,12 @@
     "name": "himkt"
   },
   "metadata": {
-    "description": "Local marketplace vendoring external Claude Code skills via git submodules."
+    "description": "Local marketplace vendoring external repositories using git submodule."
   },
   "plugins": [
     {
-      "name": "slidev-plugin",
-      "source": "./slidev/skills/slidev",
+      "name": "external-skills",
+      "source": "./plugins/external-skills",
       "description": "Slidev presentation skill — web-based slides with Markdown, Vue components, code highlighting, and animations.",
       "version": "52.12.0"
     }

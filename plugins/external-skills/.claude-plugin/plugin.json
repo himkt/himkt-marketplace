@@ -1,0 +1,14 @@
+{
+  "name": "external-skills",
+  "version": "0.0.1",
+  "description": "",
+  "author": {
+    "name": "himkt"
+  },
+  "keywords": [
+    "slidev"
+  ],
+  "skills": [
+    "./skills"
+  ]
+}
