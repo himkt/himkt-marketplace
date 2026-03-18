@@ -9,6 +9,6 @@
     "slidev"
   ],
   "skills": [
-    "./skills"
+    "./skills/slidev/skills"
   ]
 }
