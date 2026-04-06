@@ -6,9 +6,11 @@
     "name": "himkt"
   },
   "keywords": [
-    "slidev"
+    "slidev",
+    "agent-browser"
   ],
   "skills": [
-    "./skills/slidev/skills"
+    "./skills/slidev/skills",
+    "./skills/agent-browser/skills/agent-browser"
   ]
 }
