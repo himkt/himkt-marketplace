@@ -11,6 +11,6 @@
   ],
   "skills": [
     "./skills/slidev/skills",
-    "./skills/agent-browser/skills/agent-browser"
+    "./skills/agent-browser/skills"
   ]
 }
