@@ -1,16 +1,14 @@
 {
-  "name": "external-skills",
+  "name": "agent-browser",
   "version": "0.0.1",
   "description": "",
   "author": {
     "name": "himkt"
   },
   "keywords": [
-    "slidev",
     "agent-browser"
   ],
   "skills": [
-    "./skills/slidev/skills",
-    "./skills/agent-browser/skills"
+    "./agent-browser/skills"
   ]
 }

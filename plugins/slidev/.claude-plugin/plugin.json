@@ -1,0 +1,14 @@
+{
+  "name": "slidev",
+  "version": "0.2.0",
+  "description": "",
+  "author": {
+    "name": "himkt"
+  },
+  "keywords": [
+    "slidev"
+  ],
+  "skills": [
+    "./slidev/skills"
+  ]
+}

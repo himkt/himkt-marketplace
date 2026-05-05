@@ -1,6 +1,6 @@
 [submodule "slidev"]
-	path = plugins/external-skills/skills/slidev
+	path = plugins/slidev/slidev
 	url = https://github.com/slidevjs/slidev.git
 [submodule "plugins/external-skills/agent-browser"]
-	path = plugins/external-skills/skills/agent-browser
+	path = plugins/agent-browser/agent-browser
 	url = https://github.com/vercel-labs/agent-browser.git

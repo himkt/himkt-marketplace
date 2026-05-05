@@ -1,6 +1,6 @@
 {
   "name": "himkt-marketplace",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "owner": {
     "name": "himkt"
   },
@@ -9,10 +9,16 @@
   },
   "plugins": [
     {
-      "name": "external-skills",
-      "source": "./plugins/external-skills",
+      "name": "slidev",
+      "source": "./plugins/slidev",
       "description": "Slidev presentation skill — web-based slides with Markdown, Vue components, code highlighting, and animations.",
-      "version": "52.12.0"
+      "version": "0.2.0"
+    },
+    {
+      "name": "agent-browser",
+      "source": "./plugins/agent-browser",
+      "description": "Browser automation CLI skill for AI agents — navigate pages, fill forms, click, screenshot, scrape, and test web apps programmatically.",
+      "version": "0.2.0"
     }
   ]
 }
